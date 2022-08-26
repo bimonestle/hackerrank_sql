@@ -1,0 +1,1 @@
+A collection of solution from Hackerrank problem (SQL)
